@@ -1,0 +1,20 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+CyanoPlots/
+HILICPlots/
+PCAplots/
+VibrioHILIC.pos.csv
+VibrioHILIC.neg.csv
+VibrioAQ facet.pdf
+Vibrio.HILIC.csv
+Vibrio.DCM.csv
+Vibrio.Cyano.csv
+Vibrio.AQ.csv
+QC_QE_Bacteria_HILIC_pos.csv
+QC_QE_Bacteria_HILIC_neg.csv
+QC_outputBacteria_cyano_160727_akb.csv
+QCd_QE_Bacteria_HILIC_neg.csv
+QCd_QE_Bacteria_HILIC_pos.csv
+Cyano Script.R
